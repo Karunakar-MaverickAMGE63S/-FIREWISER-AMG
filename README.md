@@ -59,7 +59,7 @@ The `Map.tsx` component implements an architectural pattern to achieve **60fps r
 
 ## 📹 Live Demonstration
 
-[**INSERT LINK TO YOUR SUBMISSION VIDEO HERE**]
+[https://youtu.be/mRmJ3C64VfY]
 
 The video clearly demonstrates the **Hyper-Personalized Guidance** being generated and instantly applied to the UI, the fluid performance of the **Dynamic Triage Overlay**, and the low-latency response of the **On-Device AI** features.
 
