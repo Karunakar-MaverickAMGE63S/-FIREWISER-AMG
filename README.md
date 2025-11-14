@@ -1,7 +1,5 @@
 # 🔥 FIREWISER Tactical Agent: Hybrid AI for Mission-Critical Wildfire Triage
 
-## 🌟 Submission for "Best of AI Studio" Category
-
 FIREWISER is an expert system designed to orchestrate a complex emergency response. It creates an **Intelligent Digital Twin** of the evacuation environment, leveraging a strategic **Hybrid AI Architecture** to deliver unparalleled clarity and control to both citizens in peril and the command center.
 
 Our core innovation focuses on transforming the generative power of Gemini into a reliable, policy-driven decision engine, a key requirement for life-saving applications.
